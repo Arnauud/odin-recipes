@@ -4,12 +4,12 @@ body {
 
 
 h1 {
-    background-color: blue;
+
     text-align: center;
 }
 
 ul{
-    background-color: green;
+    color: white;
     padding-bottom: 20px;
 }
 
@@ -29,7 +29,7 @@ img{
     background: peachpuff;
     border: 10px solid blue;
     height: auto;
-    flex: 1;
+    flex: 1 1 10%;
     margin-bottom: 20px;
 }
 
